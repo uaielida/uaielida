@@ -12,7 +12,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uaielida)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/uaielida)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://Linkedin.elida-costa/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://Linkedin.com/elida-costa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://Gmail.elidacosta2020@gmail.com/)
 
 ![Uaielida GitHub stats](https://github-readme-stats.vercel.app/api?username=uaielida&show_icons=true&theme=dracula&count_private=true)

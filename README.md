@@ -4,11 +4,11 @@
 <div align="center">Olá! Eu sou a Élida Santtos
 
 
--💻 Estudante de Sistemas de Informação na Universidade Paulista-Unip ...
+-💻 Estudante de Sistemas de Informação na Universidade Paulista-Unip 
 
--Inicante na area de ti,e a procura de uma oportunidade...
+-Inicante na area de ti,e a procura de uma oportunidade
 
--🌏Sao Paulo-SP...
+-🌏Sao Paulo-SP
 
 -Rede sociais👇
 

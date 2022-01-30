@@ -6,8 +6,6 @@
 
 -💻 Estudante de Sistemas de Informação 
 
--Inicante na area de ti
-
 -🌏Sao Paulo-SP
 
 -Rede sociais👇

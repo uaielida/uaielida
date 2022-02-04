@@ -16,7 +16,9 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elida-costa-032b731b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://Gmail.elidacosta2020@gmail.com/)
 
-![Uaielida GitHub stats](https://github-readme-stats.vercel.app/api?username=uaielida&show_icons=true&theme=dracula&count_private=true)
+
+ ![Uaielida GitHub stats](https://github-readme-stats.vercel.app/api?username=uaielida&show_icons=true&theme=synthwave)
+        
 
 
         

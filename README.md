@@ -1,9 +1,7 @@
 
-
-
-<div align="center">Olá! Eu sou a Élida Santtos
-
-
+<div align="center">
+ Olá! Eu sou a Élida Santtos
+ 
 -💻 Estudante de Sistemas de Informação 
 
 -🌏Sao Paulo-SP
@@ -18,8 +16,7 @@
 
 
  ![Uaielida GitHub stats](https://github-readme-stats.vercel.app/api?username=uaielida&show_icons=true&theme=synthwave)
-        
-
+ <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uaielida&layout=compact&langs_count=7&theme=synthwave"/>
 
         
 -Tecnologias que estou estudando no momento.💻
